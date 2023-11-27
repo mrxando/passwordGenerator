@@ -82,10 +82,11 @@ body{
         border: 0;
         outline: 0;
         font-size: 15px;
+        width: 120px;
     }
-    .btn{
-        padding: 0;
+    .container button{
+        padding: 13px;
         font-size: 16px;
-        
+
     }
 }
